@@ -1,0 +1,5 @@
+{
+  "name": "Stock Prompt Architect",
+  "description": "An advanced tool to generate customized, high-quality prompts for stock photography using AI. Create large batches of random prompts or specify single or multiple categories for targeted idea generation, then export them as a CSV file.",
+  "requestFramePermissions": []
+}
